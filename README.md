@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 I am a python coder who's a little better than a beginner.
 
+## Links
+
 🔗 [My Discord Server](https://discord.gg/vfvyjDA)
 
 🔗 [Kaggle](https://www.kaggle.com/faizrahim/)
