@@ -19,6 +19,8 @@ I am a python coder who's a little better than a beginner.
 
 🔗 [My Discord Server](https://discord.gg/vfvyjDA)
 
+🔗 [Kaggle](https://www.kaggle.com/faizrahim/)
+
 🔗 [Discord bot](https://top.gg/bot/717062311755513976)
 
 
