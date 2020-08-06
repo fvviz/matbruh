@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 I am a python coder who's a little better than a beginner.
 
-🔗 [Discord Server](https://discord.gg/vfvyjDA)
+🔗 [My Discord Server](https://discord.gg/vfvyjDA)
+
 🔗 [Discord bot](https://top.gg/bot/717062311755513976)
 
 
