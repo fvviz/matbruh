@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 My name is Faiz, On the internet i'm known as Fwiz
 
+I am a python coder who's a little better than a beginner
+
 - 🌱 I’m currently learning Machine learning and looking forward to making more machine learning projects
 - 💬 Contact me [on discord](https://discord.gg/vfvyjDA)
 
