@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 My name is Faiz, On the internet i'm known as Fwiz
 
 - 🌱 I’m currently learning Machine learning and looking forward to making more machine learning projects
-- 💬 Contact me [here](https://discord.gg/vfvyjDA)
+- 💬 Contact me [on discord](https://discord.gg/vfvyjDA)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fwizzz)](https://github.com/anuraghazra/github-readme-stats)
 
