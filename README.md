@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 I am a python coder who's a little better than a beginner.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fwizzz)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fwizzz)](https://github.com/anuraghazra/github-readme-stats)
 
 
