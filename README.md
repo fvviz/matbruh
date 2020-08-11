@@ -27,12 +27,4 @@ I am a python coder who's a little better than a beginner
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fwizzz)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Links
-
-🔗 [My Discord Server](https://discord.gg/vfvyjDA)
-
-🔗 [Kaggle](https://www.kaggle.com/faizrahim/)
-
-🔗 [Discord bot](https://top.gg/bot/717062311755513976)
-
 
