@@ -19,9 +19,9 @@ My name is Faiz, On the internet i'm known as Fwiz
 
 I am a python coder who's a little better than a beginner
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fwizkun)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fwizpy)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fwizkun)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fwizpy)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
