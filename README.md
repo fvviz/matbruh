@@ -1,4 +1,4 @@
-### Konichiwa 👋
+### Mochi Mochi 👋
 
 <!--
 **fwizzz/fwizzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Faiz, On the internet i'm known as Fwiz
+I'm Faiz, Or on the internet "Fwiz", I'm a decent python coder and a machine learning enthusias
 
-I'm fairly decent at python and a machine learning enthusiast and im trying to learn more as i make more projects
+t and im trying to learn more as i make more projects
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fvviz)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fvviz)](https://github.com/anuraghazra/github-readme-stats)
