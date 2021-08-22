@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Faiz, Or on the internet "Fwiz", I'm a decent (bad, very) python coder and im trying to learn more as i make more
+I'm Faiz, Or on the internet "Fwiz", I'm a decent (bad, very) python developer and im trying to learn more as i make more
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fvviz&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fvviz&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://github.com/nickofolas">
+    <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=fvviz&show_icons=true&theme=radical&hide_border=true" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fvviz&theme=radical&hide_border=true&layout=compact&card_width=445&bg_color=00000000" />
+</a>
 
 
