@@ -1,5 +1,9 @@
-### Hello 👋
 
+
+I code to escape reality
+
+- 🌱 I’m currently learning Deep learning fundamentals
+- 📫 You can reach me at discord: `fwiz#3435`
 <!--
 **fwizzz/fwizzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
