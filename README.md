@@ -2,7 +2,7 @@
 
 I code to escape reality
 
-- 🌱 I’m currently learning Deep learning fundamentals
+- 🌱 I’m currently not working much and only do so when i have an idea in mind
 - 📫 You can reach me at discord: `fwiz#3435`
 <!--
 **fwizzz/fwizzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
