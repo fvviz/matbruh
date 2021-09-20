@@ -1,6 +1,5 @@
 
 
-I code to escape reality
 
 - 🌱 I’m currently not working much and only do so when i have an idea in mind
 - 📫 You can reach me at discord: `fwiz#3435`
