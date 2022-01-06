@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 </a>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=fvviz&theme=monokai&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 
