@@ -1,7 +1,7 @@
 
 
 
-- 🌱 I’m currently not working much and only do so when i have an idea in mind
+- 🌱 I’m currently not working on anything 
 - 📫 You can reach me at discord: `fwiz#3435`
 <!--
 **fwizzz/fwizzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
